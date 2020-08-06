@@ -1,2 +1,2 @@
-# Data-Structure-and-Algorithms
-Java programs implemented using different Data Structure and Algorithms
+# Data Structures and Algorithms
+Java programs demonstrating multiple Data Structures and Algorithms concepts
